@@ -1,0 +1,5 @@
+{
+  "name": "hp",
+  "manufacturer": "HP",
+  "baseProfile": "generic-uefi"
+}

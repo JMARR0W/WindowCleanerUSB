@@ -1,0 +1,7 @@
+{
+  "windowsEdition": "Windows 11 Pro",
+  "architecture": "x64",
+  "profileDirectory": "\\profiles",
+  "logDirectory": "\\Logs",
+  "requireExplicitTargetConfirmation": true
+}

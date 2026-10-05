@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<unattend xmlns="urn:schemas-microsoft-com:unattend">
+  <!-- Initial template only.
+       Account creation, disk configuration, and OOBE settings
+       will be added after the deployment flow is tested in a VM. -->
+</unattend>

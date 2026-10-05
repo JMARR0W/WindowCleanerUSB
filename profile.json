@@ -1,0 +1,5 @@
+{
+  "name": "dell",
+  "manufacturer": "Dell Inc.",
+  "baseProfile": "generic-uefi"
+}

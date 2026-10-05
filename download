@@ -1,0 +1,43 @@
+# .NET
+bin/
+obj/
+.vs/
+.vscode/
+*.user
+*.suo
+TestResults/
+*.nupkg
+
+# Build output
+out/
+dist/
+artifacts/
+
+# Windows deployment media
+*.iso
+*.wim
+*.esd
+*.vhd
+*.vhdx
+*.img
+
+# Generated WinPE/USB
+winpe/build/
+winpe/mount/
+usb/
+USB/
+media/
+
+# Logs
+*.log
+logs/
+
+# Local configuration/secrets
+*.local.json
+secrets/
+.env
+.env.*
+
+# OS files
+.DS_Store
+Thumbs.db

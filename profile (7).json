@@ -1,0 +1,7 @@
+{
+  "name": "generic-uefi",
+  "firmware": "UEFI",
+  "architecture": "x64",
+  "windowsEdition": "Windows 11 Pro",
+  "diskPolicy": "internal-system-disk"
+}

@@ -1,0 +1,7 @@
+Write-Host "WinPE hardware detection placeholder."
+Write-Host "Future implementation will enumerate:"
+Write-Host "  - firmware mode"
+Write-Host "  - internal disks"
+Write-Host "  - USB deployment media"
+Write-Host "  - storage controllers"
+Write-Host "  - network adapters"
