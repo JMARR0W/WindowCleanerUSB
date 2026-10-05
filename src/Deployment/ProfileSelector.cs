@@ -18,13 +18,13 @@ public sealed class ProfileSelector
         {
             return new DeploymentProfile(
                 "generic-uefi",
-                "Windows 11 Pro",
+                "Windows 11 Home",
                 "internal-system-disk");
         }
 
         return new DeploymentProfile(
             "generic",
-            "Windows 11 Pro",
+            "Windows 11 Home",
             "internal-system-disk");
     }
 }

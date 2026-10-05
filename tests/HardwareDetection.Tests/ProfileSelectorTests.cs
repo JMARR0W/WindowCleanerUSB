@@ -10,18 +10,22 @@ public class ProfileSelectorTests
     public void SelectsUefiGenericProfile()
     {
         var hardware = new HardwareInfo(
-            "Generic",
-            "TestMachine",
-            "UEFI",
-            false,
-            "x64",
-            16,
-            System.Array.Empty<DiskInfo>());
+            Manufacturer: "Generic",
+            Model: "TestMachine",
+            FirmwareMode: "UEFI",
+            SecureBoot: SecureBootStatus.Disabled,
+            Architecture: "x64",
+            MemoryGb: 16,
+            WindowsVersion: "Windows 11 Home",
+            WindowsBuild: "24H2 (26100)",
+            WindowsEdition: "Professional",
+            BiosVersion: "TEST",
+            Disks: System.Array.Empty<DiskInfo>());
 
         var profile = ProfileSelector.Select(hardware);
 
         Assert.Equal("generic-uefi", profile.Name);
-        Assert.Equal("Windows 11 Pro", profile.WindowsEdition);
+        Assert.Equal("Windows 11 Home", profile.WindowsEdition);
         Assert.Equal("internal-system-disk", profile.DiskPolicy);
     }
 }
