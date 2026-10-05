@@ -1,0 +1,13 @@
+C:\Users\JMWit\Documents\CS\WindowCleanerUSB\src\HardwareDetection\bin\Debug\net8.0-windows\HardwareDetection.deps.json
+C:\Users\JMWit\Documents\CS\WindowCleanerUSB\src\HardwareDetection\bin\Debug\net8.0-windows\HardwareDetection.dll
+C:\Users\JMWit\Documents\CS\WindowCleanerUSB\src\HardwareDetection\bin\Debug\net8.0-windows\HardwareDetection.pdb
+C:\Users\JMWit\Documents\CS\WindowCleanerUSB\src\HardwareDetection\obj\Debug\net8.0-windows\HardwareDetection.csproj.AssemblyReference.cache
+C:\Users\JMWit\Documents\CS\WindowCleanerUSB\src\HardwareDetection\obj\Debug\net8.0-windows\HardwareDetection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JMWit\Documents\CS\WindowCleanerUSB\src\HardwareDetection\obj\Debug\net8.0-windows\HardwareDetection.AssemblyInfoInputs.cache
+C:\Users\JMWit\Documents\CS\WindowCleanerUSB\src\HardwareDetection\obj\Debug\net8.0-windows\HardwareDetection.AssemblyInfo.cs
+C:\Users\JMWit\Documents\CS\WindowCleanerUSB\src\HardwareDetection\obj\Debug\net8.0-windows\HardwareDetection.csproj.CoreCompileInputs.cache
+C:\Users\JMWit\Documents\CS\WindowCleanerUSB\src\HardwareDetection\obj\Debug\net8.0-windows\HardwareDetection.sourcelink.json
+C:\Users\JMWit\Documents\CS\WindowCleanerUSB\src\HardwareDetection\obj\Debug\net8.0-windows\HardwareDetection.dll
+C:\Users\JMWit\Documents\CS\WindowCleanerUSB\src\HardwareDetection\obj\Debug\net8.0-windows\refint\HardwareDetection.dll
+C:\Users\JMWit\Documents\CS\WindowCleanerUSB\src\HardwareDetection\obj\Debug\net8.0-windows\HardwareDetection.pdb
+C:\Users\JMWit\Documents\CS\WindowCleanerUSB\src\HardwareDetection\obj\Debug\net8.0-windows\ref\HardwareDetection.dll

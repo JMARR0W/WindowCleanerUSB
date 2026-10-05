@@ -1,0 +1,16 @@
+C:\Users\JMWit\Documents\CS\WindowCleanerUSB\src\Deployment\bin\Debug\net8.0-windows\Deployment.deps.json
+C:\Users\JMWit\Documents\CS\WindowCleanerUSB\src\Deployment\bin\Debug\net8.0-windows\Deployment.dll
+C:\Users\JMWit\Documents\CS\WindowCleanerUSB\src\Deployment\bin\Debug\net8.0-windows\Deployment.pdb
+C:\Users\JMWit\Documents\CS\WindowCleanerUSB\src\Deployment\bin\Debug\net8.0-windows\HardwareDetection.dll
+C:\Users\JMWit\Documents\CS\WindowCleanerUSB\src\Deployment\bin\Debug\net8.0-windows\HardwareDetection.pdb
+C:\Users\JMWit\Documents\CS\WindowCleanerUSB\src\Deployment\obj\Debug\net8.0-windows\Deployment.csproj.AssemblyReference.cache
+C:\Users\JMWit\Documents\CS\WindowCleanerUSB\src\Deployment\obj\Debug\net8.0-windows\Deployment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JMWit\Documents\CS\WindowCleanerUSB\src\Deployment\obj\Debug\net8.0-windows\Deployment.AssemblyInfoInputs.cache
+C:\Users\JMWit\Documents\CS\WindowCleanerUSB\src\Deployment\obj\Debug\net8.0-windows\Deployment.AssemblyInfo.cs
+C:\Users\JMWit\Documents\CS\WindowCleanerUSB\src\Deployment\obj\Debug\net8.0-windows\Deployment.csproj.CoreCompileInputs.cache
+C:\Users\JMWit\Documents\CS\WindowCleanerUSB\src\Deployment\obj\Debug\net8.0-windows\Deployment.sourcelink.json
+C:\Users\JMWit\Documents\CS\WindowCleanerUSB\src\Deployment\obj\Debug\net8.0-windows\Deployment.csproj.Up2Date
+C:\Users\JMWit\Documents\CS\WindowCleanerUSB\src\Deployment\obj\Debug\net8.0-windows\Deployment.dll
+C:\Users\JMWit\Documents\CS\WindowCleanerUSB\src\Deployment\obj\Debug\net8.0-windows\refint\Deployment.dll
+C:\Users\JMWit\Documents\CS\WindowCleanerUSB\src\Deployment\obj\Debug\net8.0-windows\Deployment.pdb
+C:\Users\JMWit\Documents\CS\WindowCleanerUSB\src\Deployment\obj\Debug\net8.0-windows\ref\Deployment.dll

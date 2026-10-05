@@ -1,0 +1,214 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\JMWit\\Documents\\CS\\WindowCleanerUSB\\src\\Launcher\\Launcher.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\JMWit\\Documents\\CS\\WindowCleanerUSB\\src\\Deployment\\Deployment.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\JMWit\\Documents\\CS\\WindowCleanerUSB\\src\\Deployment\\Deployment.csproj",
+        "projectName": "Deployment",
+        "projectPath": "C:\\Users\\JMWit\\Documents\\CS\\WindowCleanerUSB\\src\\Deployment\\Deployment.csproj",
+        "packagesPath": "C:\\Users\\JMWit\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\JMWit\\Documents\\CS\\WindowCleanerUSB\\src\\Deployment\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\JMWit\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0-windows"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0-windows7.0": {
+            "targetAlias": "net8.0-windows",
+            "projectReferences": {
+              "C:\\Users\\JMWit\\Documents\\CS\\WindowCleanerUSB\\src\\HardwareDetection\\HardwareDetection.csproj": {
+                "projectPath": "C:\\Users\\JMWit\\Documents\\CS\\WindowCleanerUSB\\src\\HardwareDetection\\HardwareDetection.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0-windows7.0": {
+          "targetAlias": "net8.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.425/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\JMWit\\Documents\\CS\\WindowCleanerUSB\\src\\HardwareDetection\\HardwareDetection.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\JMWit\\Documents\\CS\\WindowCleanerUSB\\src\\HardwareDetection\\HardwareDetection.csproj",
+        "projectName": "HardwareDetection",
+        "projectPath": "C:\\Users\\JMWit\\Documents\\CS\\WindowCleanerUSB\\src\\HardwareDetection\\HardwareDetection.csproj",
+        "packagesPath": "C:\\Users\\JMWit\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\JMWit\\Documents\\CS\\WindowCleanerUSB\\src\\HardwareDetection\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\JMWit\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0-windows"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0-windows7.0": {
+            "targetAlias": "net8.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0-windows7.0": {
+          "targetAlias": "net8.0-windows",
+          "dependencies": {
+            "System.Management": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.425/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\JMWit\\Documents\\CS\\WindowCleanerUSB\\src\\Launcher\\Launcher.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\JMWit\\Documents\\CS\\WindowCleanerUSB\\src\\Launcher\\Launcher.csproj",
+        "projectName": "Launcher",
+        "projectPath": "C:\\Users\\JMWit\\Documents\\CS\\WindowCleanerUSB\\src\\Launcher\\Launcher.csproj",
+        "packagesPath": "C:\\Users\\JMWit\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\JMWit\\Documents\\CS\\WindowCleanerUSB\\src\\Launcher\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\JMWit\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0-windows"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0-windows7.0": {
+            "targetAlias": "net8.0-windows",
+            "projectReferences": {
+              "C:\\Users\\JMWit\\Documents\\CS\\WindowCleanerUSB\\src\\Deployment\\Deployment.csproj": {
+                "projectPath": "C:\\Users\\JMWit\\Documents\\CS\\WindowCleanerUSB\\src\\Deployment\\Deployment.csproj"
+              },
+              "C:\\Users\\JMWit\\Documents\\CS\\WindowCleanerUSB\\src\\HardwareDetection\\HardwareDetection.csproj": {
+                "projectPath": "C:\\Users\\JMWit\\Documents\\CS\\WindowCleanerUSB\\src\\HardwareDetection\\HardwareDetection.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0-windows7.0": {
+          "targetAlias": "net8.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.425/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
