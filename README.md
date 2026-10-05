@@ -1,6 +1,6 @@
 # WindowCleanerUSB
 A hands free plug and play windows reinstaller
-
+```bash
 windows-reinstaller/
 ├── README.md
 ├── LICENSE
@@ -59,3 +59,4 @@ windows-reinstaller/
     ├── architecture.md
     ├── development.md
     └── deployment.md
+```
